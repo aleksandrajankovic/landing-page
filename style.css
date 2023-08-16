@@ -483,6 +483,9 @@ footer {
     .block.swiper-slide{
     width: 45% !important;
     }
+    .footer-wrapper {
+        width: 90%;
+    }
 }
   @media screen and (max-width:700px) {
     .footer-wrapper {
@@ -519,6 +522,9 @@ footer {
     .swiper-container {
         width: 100%;
     }
+      .swiper-slide img {
+    width: 70%;
+      }
     #rules-text .show-more {
         width: 50%;
     }
