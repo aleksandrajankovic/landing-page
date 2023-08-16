@@ -304,7 +304,7 @@ footer {
     
   }
   .block-title img {
-    width: 10%;
+    width: 10% !important;
   }
  /*rules*/
  .rules-wrapper {
