@@ -276,7 +276,7 @@ footer {
   }
 
   .swiper-slide {
-    text-align: center;
+    text-align: left;
     font-size: 18px;
     background: transparent;
     height: 55% !important;
