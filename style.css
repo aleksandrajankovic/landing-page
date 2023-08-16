@@ -118,7 +118,7 @@ margin-bottom: 2.5rem;
     display: flex;
     margin-bottom: 0.5rem;
 }
-.hero-btn a {
+.hero-btn a:first-child {
     padding: 1.5rem 3rem;
     font-size: 1.4rem;
     text-transform: uppercase;
