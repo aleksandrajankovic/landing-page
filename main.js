@@ -9,7 +9,7 @@ var swiper = new Swiper(".mySwiper", {
     },
     breakpoints: {
       300: {
-        slidesPerView: 3,
+        slidesPerView: 4,
         spaceBetween: 10,
       },
       480: {
@@ -41,12 +41,12 @@ var swiper = new Swiper(".mySwiper", {
     },
     breakpoints: {
       300: {
-        slidesPerView: 3,
-        spaceBetween: 30,
+        slidesPerView: 4,
+        spaceBetween: 10,
       },
       480: {
         slidesPerView: 4,
-        spaceBetween: 40,
+        spaceBetween: 20,
       },
       640: {
         slidesPerView: 4,
